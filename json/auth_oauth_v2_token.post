@@ -1,0 +1,9 @@
+{
+    "access_token": "d0ae351d-8702-4d1e-833a-08dd27d8fbd4",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "refresh_token": "70ae239e-c60c-42d9-ba24-0bb55873d97c",
+    "scope": "openid customer_info oob",
+    "id_token": "abc",
+    "id_token_type": "urn:ietf:params:ouath:grant-type:jwt-bearer"
+}
